@@ -93,6 +93,9 @@ img {
         display: block;
         width: 80%;
     }
+    .title{
+        font-size:32px;
+    }
     .image{
         width: 90%;
     }
